@@ -1,4 +1,4 @@
-import utils as utils
+import (.github).utils as utils
 
 a,b=3,4
 c=utils.pythagoras(a, b)
