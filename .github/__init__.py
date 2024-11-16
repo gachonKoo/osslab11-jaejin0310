@@ -1,1 +1,1 @@
-__all__={'pythagoras','circle'}
+__all__=['pythagoras','circle']
